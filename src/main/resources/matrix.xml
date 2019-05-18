@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xmlns:matrix="http://zxy.com/schema/matrix"
+       xmlns:matrix="http://ddl.com/schema/matrix"
        xsi:schemaLocation=
                "http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
-                http://zxy.com/schema/matrix http://zxy.com/schema/matrix/matrix.xsd">
+                http://ddl.com/schema/matrix http://ddl.com/schema/matrix/matrix.xsd">
 
-    <matrix:matrix id="zxy" description="测试自定义元素解析功能！"/>
+    <matrix:matrix id="zxy" description="ddl测试自定义元素解析功能！"/>
 
 </beans>
