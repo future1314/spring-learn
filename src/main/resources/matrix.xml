@@ -6,6 +6,6 @@
                "http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
                 http://ddl.com/schema/matrix http://ddl.com/schema/matrix/matrix.xsd">
 
-    <matrix:matrix id="zxy" description="ddl测试自定义元素解析功能！"/>
+    <matrix:mat id="zxy" description="ddl测试自定义元素解析功能！"/>
 
 </beans>

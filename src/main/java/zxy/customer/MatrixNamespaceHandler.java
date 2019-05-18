@@ -11,6 +11,6 @@ import org.springframework.beans.factory.xml.NamespaceHandlerSupport;
 public class MatrixNamespaceHandler extends NamespaceHandlerSupport {
 
     public void init() {
-        registerBeanDefinitionParser("matrix", new MatrixBeanDefinitionParser(Matrix.class, true));
+        registerBeanDefinitionParser("mat", new MatrixBeanDefinitionParser(Matrix.class, true));
     }
 }
