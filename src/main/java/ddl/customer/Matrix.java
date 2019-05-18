@@ -1,7 +1,7 @@
-package zxy.customer;
+package ddl.customer;
 
 /**
- * @author 张晓鱼
+ * @author dd
  * @version $id: Matrix.java v 0.1 2018/10/20 下午4:52
  */
 public class Matrix {

@@ -1,4 +1,4 @@
-package zxy.customer;
+package ddl.customer;
 
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.beans.factory.support.RootBeanDefinition;
@@ -8,7 +8,7 @@ import org.springframework.util.StringUtils;
 import org.w3c.dom.Element;
 
 /**
- * @author 张晓鱼
+ * @author dd
  * @version $id: MatrixBeanDefinitionParser.java v 0.1 2018/10/20 下午4:49
  */
 public class MatrixBeanDefinitionParser implements BeanDefinitionParser {
